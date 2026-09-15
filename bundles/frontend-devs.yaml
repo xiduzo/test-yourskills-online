@@ -1,0 +1,11 @@
+# This file is the bundle. Membership and the sha each member is pinned at (D10)
+# live here, reviewed in git — merging a change to it is the release.
+
+name: frontend-devs
+skills:
+  - name: prototype
+    source: xiduzo/test-yourskills-online
+  - name: wtf.implement-task
+    source: xiduzo/test-yourskills-online
+  - name: tdd
+    source: xiduzo/test-yourskills-online
