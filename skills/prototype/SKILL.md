@@ -8,7 +8,7 @@ metadata:
   upstream:
     repo: mattpocock/skills
     ref: main
-    sha: 3cca18b368ae95cdbdebbff572ccafa662551015
+    sha: 2237a047bd95abfd1427df94f65165c39e24d3c1
     path: skills/engineering/prototype
   status: active
 license: MIT
