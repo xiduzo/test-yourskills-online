@@ -8,7 +8,7 @@ metadata:
   upstream:
     repo: mattpocock/skills
     ref: main
-    sha: 3cca18b368ae95cdbdebbff572ccafa662551015
+    sha: dd400c3ad65e57c06f05e832e0aac92c7992f34d
     path: skills/engineering/diagnosing-bugs
   status: active
 license: MIT
@@ -18,7 +18,7 @@ license: MIT
 
 A discipline for hard bugs. Skip phases only when explicitly justified.
 
-When exploring the codebase, read `CONTEXT.md` (if it exists) to get a clear mental model of the relevant modules, and check ADRs in the area you're touching.
+When exploring the codebase, read `GLOSSARY.md` (if it exists) to get a clear mental model of the relevant modules, and check ADRs in the area you're touching.
 
 ## Redact
 
